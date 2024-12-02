@@ -29,7 +29,7 @@ Le **Earth Project** est une simulation 3D de la Terre avec des effets visuels r
 ## 📚 **Installation**  
 
 1. **Téléchargez le projet** :  
-   Téléchargez ou clonez ce dépôt sur votre machine locale.  
+   Téléchargez ce dépôt sur votre machine locale.  
 
 2. **Installez les dépendances** :  
    Ouvrez un terminal dans le répertoire du projet et exécutez :  
